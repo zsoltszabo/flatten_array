@@ -1,0 +1,21 @@
+{
+  "author": {
+    "name": "Zsolt Szabo"
+  },
+  "name": "flatten_array",
+  "description": "",
+  "version": "1",
+  "main": "./flatten.js",
+  "dependencies": {
+
+  },
+  "devDependencies": {
+
+    "nodeunit": ">=0.x"
+
+  },
+  "readme": "ERROR: No README data found!",
+  "engines": {
+    "node": "0.10.x"
+  }
+}
