@@ -5,6 +5,7 @@ Compile coffee sources:
 coffee -m -wco ./ ./
 
 To run unit tests, after "npm install"
+
 node flatten_test.js
 
 
