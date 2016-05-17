@@ -1,3 +1,7 @@
+# js compiled files
+*.js
+#libary folder
+node_modules
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
